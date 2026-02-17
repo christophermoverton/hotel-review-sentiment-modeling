@@ -162,7 +162,3 @@ README.md
 Christopher Overton
 M.S. Data Science
 
-
-* A more research-style README
-* A version emphasizing ML engineering
-* Or a version optimized for recruiter readability
